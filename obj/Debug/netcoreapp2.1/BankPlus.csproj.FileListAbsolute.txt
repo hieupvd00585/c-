@@ -1,0 +1,11 @@
+C:\Users\phamhieu1999\BankPlus\BankPlus\bin\Debug\netcoreapp2.1\BankPlus.deps.json
+C:\Users\phamhieu1999\BankPlus\BankPlus\bin\Debug\netcoreapp2.1\BankPlus.runtimeconfig.json
+C:\Users\phamhieu1999\BankPlus\BankPlus\bin\Debug\netcoreapp2.1\BankPlus.runtimeconfig.dev.json
+C:\Users\phamhieu1999\BankPlus\BankPlus\bin\Debug\netcoreapp2.1\BankPlus.dll
+C:\Users\phamhieu1999\BankPlus\BankPlus\bin\Debug\netcoreapp2.1\BankPlus.pdb
+C:\Users\phamhieu1999\BankPlus\BankPlus\obj\Debug\netcoreapp2.1\BankPlus.csprojAssemblyReference.cache
+C:\Users\phamhieu1999\BankPlus\BankPlus\obj\Debug\netcoreapp2.1\BankPlus.csproj.CoreCompileInputs.cache
+C:\Users\phamhieu1999\BankPlus\BankPlus\obj\Debug\netcoreapp2.1\BankPlus.AssemblyInfoInputs.cache
+C:\Users\phamhieu1999\BankPlus\BankPlus\obj\Debug\netcoreapp2.1\BankPlus.AssemblyInfo.cs
+C:\Users\phamhieu1999\BankPlus\BankPlus\obj\Debug\netcoreapp2.1\BankPlus.dll
+C:\Users\phamhieu1999\BankPlus\BankPlus\obj\Debug\netcoreapp2.1\BankPlus.pdb
